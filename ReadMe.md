@@ -1,9 +1,9 @@
 
-#Association Rule Mining using Apriori
+# Association Rule Mining using Apriori
 
 Apriori is a classical algorithm for mining association rules. This code for mining association rules using Apriori algorithm is written in Python 3.
 
-#How to run the code:
+# How to run the code:
 
 (1) First, download and unzipped the folder and enter that folder. Then run the following command from a terminal to run the code: (Required dataset 'Play_Tennis_Data_Set.csv' should be in the same folder)
 
@@ -37,5 +37,5 @@ Apriori is a classical algorithm for mining association rules. This code for min
 
    Thank you!
 
-#Contact:
+# Contact:
 Md. Mahbub Alam (emahbub.cse@gmail.com)
