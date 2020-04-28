@@ -1,4 +1,6 @@
 
+#Association Rule Mining using Apriori
+
 Apriori is a classical algorithm for mining association rules. This code for mining association rules using Apriori algorithm is written in Python 3.
 
 #How to run the code:
