@@ -5,10 +5,10 @@
 
 columns = ['Outlook', 'Temperature', 'Humidity', 'Windy', 'PlayTennis']
 columnValues = [['sunny', 'overcast', 'rain'], 
-				['hot', 'mild', 'cool'], 
-				['high', 'normal'], 
-				['TRUE', 'FALSE'],
-				['P', 'N']]
+		['hot', 'mild', 'cool'], 
+		['high', 'normal'], 
+		['TRUE', 'FALSE'],
+		['P', 'N']]
 
 #Read data from file and creates a 2D list of datasets
 def ReadFromFile(fileName):
