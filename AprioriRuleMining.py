@@ -1,7 +1,8 @@
-#===============================#
-# Author: Md Mahbub Alam        #
-# Email: emahbub.cse@gmail.com  #
-#===============================#
+#================================================#
+# Program: Association Rule Mining using Apriori #
+# Author: Md Mahbub Alam                         #
+# Email: emahbub.cse@gmail.com                   #
+#================================================#
 
 columns = ['Outlook', 'Temperature', 'Humidity', 'Windy', 'PlayTennis']
 columnValues = [['sunny', 'overcast', 'rain'], 
